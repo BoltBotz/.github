@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">
+Bolt
+</h1>
+<p align="center">
+Bolt is a blazingly fast Discord bot with tons of commands and even has its own website!
+<p>
+<div align="center">
+  <a href="https://google.com">Documentation (SOON)</a> —
+  <a href="https://google.com">Installation Guide (sOON)</a> —
+  <a href="https://google.com">Discord (sOON)</a>
+</div>
